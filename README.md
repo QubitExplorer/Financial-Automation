@@ -2,6 +2,7 @@
 Financial automation leverages Python and Excel to streamline tasks like data analysis, financial modeling, and report generation. Python can process large datasets with libraries like Pandas, while Excel handles easy visualization and what-if analysis, providing a seamless automation solution for finance professionals to automate ease workflows. 
 
 Best way to Streamline the Process:
+
 Pandas - Great for reading, writing, and manipulating Excel data using DataFrames.
 
 OpenPyXL - Allows reading and writing Excel 2010 xlsx/xlsm/xltx/xltm files.
